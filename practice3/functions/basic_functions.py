@@ -1,10 +1,10 @@
 #1
 def my_function():
-  print("Hello from a function")
+    print('Hello from my function')
 
 my_function()
 
-#2
+#2 
 def fahrenheit_to_celsius(fahrenheit):
   return (fahrenheit - 32) * 5 / 9
 
